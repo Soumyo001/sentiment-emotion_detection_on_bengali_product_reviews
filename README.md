@@ -192,11 +192,11 @@ pip install -r requirements.txt
 
    - for windows :
    ```powershell
-   Expand-Archive -Path trained_sentiment_and_emotion_classification.zip -DestinationPath <your-project-directory>
+   Expand-Archive -Path $env:userprofile/Downloads/trained_sentiment_and_emotion_classification.zip -DestinationPath <your-project-directory>
    ```
    - for linux :
    ```bash
-   unzip trained_sentiment_and_emotion_classification.zip -d /project/directory
+   unzip /home/$USER/Downloads/trained_sentiment_and_emotion_classification.zip -d /project/directory
    ```
 - Run **load_model.py** script :
 ```bash
