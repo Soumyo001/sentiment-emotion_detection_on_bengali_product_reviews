@@ -1,0 +1,8 @@
+torch==1.13.1
+transformers==4.30.0
+sklearn==1.0.2
+datasets==2.9.0
+pandas==1.5.3
+numpy==1.23.5
+langdetect==1.0.9
+tqdm==4.64.1
