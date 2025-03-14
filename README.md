@@ -15,7 +15,7 @@ This project focuses on **Classifying Sentiment and Emotions** in **Bengali Prod
 9. [Requirements](#requirements)
 10. [Usage](#usage)
 11. [Basic Diagram](#Diagram)
-12. [Load Model](#Load-Model)
+12. [Load Trained Model](#Load-Model)
 
 ## Introduction
 
