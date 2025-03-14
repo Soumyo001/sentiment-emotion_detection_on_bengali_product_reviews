@@ -189,6 +189,7 @@ pip install -r requirements.txt
 pip install -r requirements.txt
 ```
 - Download the zip file from [this link](https://drive.google.com/file/d/1DtHTlJLlueYPo4fxN0-XJ6E2WFGw4uSy/view?usp=drive_link) and extract it :
+
    - for windows :
    ```powershell
    Expand-Archive -Path trained_sentiment_and_emotion_classification.zip -DestinationPath <your-project-directory>
